@@ -1,0 +1,6 @@
+owner=521709022097702925
+prefix=^
+game=server girls and queen hagar
+stayinchannel=true
+songinstatus=false
+token=NTg3NTU2MjYyNDg1Njg4MzY3.XP4SpA.zvcjo7XkFMQWakoc9_oRyRttOBw
